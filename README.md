@@ -48,7 +48,7 @@ Paas로 배포하는 것은 처음이고 배포자체는 [클린코드를 위한
 
 
 
-# 11 배포
+# 11 Deploy
 ## 11.1 클라우드 컴퓨팅
 서버를 구매할때 AWS, Azure, DigitalOcean과 같은 Iaas(Infrastructure as a service)와 pythonanywhere, heroku와 같은 Paas(platform as a service)가 구분 됩니다.   
 
