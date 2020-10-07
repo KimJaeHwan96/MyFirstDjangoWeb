@@ -6,8 +6,50 @@ Paas로 배포하는 것은 처음이고 배포자체는 [클린코드를 위한
 
 - - -
 
-# 17 배포
-## 17.1 클라우드 컴퓨팅
+
+
+# 1 Model
+
+
+
+# 2 View
+
+
+
+# 3 Template
+
+
+
+# 4 Form
+
+
+
+# 5 Tag
+
+
+
+# 6 Disqus
+
+
+
+# 7 Search
+
+
+
+# 8 Photo & Thumnail
+
+
+
+# 9 Authentication
+
+
+
+# 10 CRUD
+
+
+
+# 11 배포
+## 11.1 클라우드 컴퓨팅
 서버를 구매할때 AWS, Azure, DigitalOcean과 같은 Iaas(Infrastructure as a service)와 pythonanywhere, heroku와 같은 Paas(platform as a service)가 구분 됩니다.   
 
 초보자들이나 배포가 목적인사람은 paas로 배포하는 게 스트레스도 덜받고 좋지만 공부하는 입장에서는 Iaas로 배포해보는 것이 좋다고 생각되어집니다.    
@@ -26,7 +68,7 @@ http://kjh96.pythonanywhere.com
 <img src="https://user-images.githubusercontent.com/64777061/95173599-d7914000-07f3-11eb-9892-a00aafb4050b.PNG" width="50%" height="60%"></img>
 
 
-## 17.2 배포 시 중요한 sercet_key 관리
+## 11.2 배포 시 중요한 sercet_key 관리
 Django에는 secret_key가 존재하는데 이 키는 프로젝트 내에서 암호화가 필요할 때 사용되는 항목으로 외부에 노출되어서는 안됩니다.   
 
 Two Scoops of Django의 51p에서는 이러한 sercet_key를 하드코딩하는 것을 방지하는 방법 중 하나로 json파일을 이용할 것을 권합니다   
