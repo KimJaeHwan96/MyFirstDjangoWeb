@@ -1,7 +1,7 @@
-참고자료: 파이썬 웹프로그래밍 기본편, 실전편 (김석훈)
-언어: python
-웹 프레임워크: Django
-서버: pythonanywhere(ubuntu)    
+참고자료: 파이썬 웹프로그래밍 기본편, 실전편 (김석훈)   
+언어: python   
+웹 프레임워크: Django   
+웹 호스팅 서비스: pythonanywhere      
 Paas로 배포하는 것은 처음이고 배포자체는 [클린코드를 위한 테스트 주도 개발(해리 J.W. 퍼시벌)](https://github.com/KimJaeHwan96/TDDforCleanCode)에서 Iaas로 배포하는 것에 이어 2번째입니다.    
 
 - - -
