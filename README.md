@@ -7,47 +7,6 @@ Paas로 배포하는 것은 처음이고 배포자체는 [클린코드를 위한
 - - -
 
 
-
-# 1 Model
-
-
-
-# 2 View
-
-
-
-# 3 Template
-
-
-
-# 4 Form
-
-
-
-# 5 Tag
-
-
-
-# 6 Disqus
-
-
-
-# 7 Search
-
-
-
-# 8 Photo & Thumnail
-
-
-
-# 9 Authentication
-
-
-
-# 10 CRUD
-
-
-
 # 11 Deploy
 ## 11.1 클라우드 컴퓨팅
 서버를 구매할때 AWS, Azure, DigitalOcean과 같은 Iaas(Infrastructure as a service)와 pythonanywhere, heroku와 같은 Paas(platform as a service)가 구분 됩니다.   
